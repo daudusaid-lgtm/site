@@ -30,7 +30,7 @@ section{padding:88px 0;}
 header{position:sticky;top:0;z-index:50;background:rgba(243,238,227,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--paper-line);}
 .nav{display:flex;align-items:center;justify-content:space-between;height:76px;}
 .brand{display:flex;align-items:center;gap:10px;font-family:var(--font-display);font-weight:800;font-size:16.5px;white-space:nowrap;}
-.brand img{height:50px;width:auto;display:block;}
+.brand img{height:72px;width:auto;display:block;}
 .brand .mark{width:34px;height:34px;background:var(--ink);color:var(--amber);display:flex;align-items:center;justify-content:center;font-family:var(--font-mono);font-size:12px;font-weight:700;border-radius:6px;}
 .navlinks{display:flex;gap:28px;font-size:14px;font-weight:500;color:var(--muted-paper);}
 .navlinks a:hover{color:var(--ink);}
